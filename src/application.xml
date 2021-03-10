@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<workflows>
+
+	 <workflow seq="1" name="入职流程审批">
+	        <workflowid>11</workflowid>
+	        <fileID>99</fileID>  
+	</workflow>
+	
+     <workflow seq="2" name="学历确认流程审批">
+     	    <workflowid>12</workflowid>
+	        <fileID>100</fileID>  
+	</workflow>
+	
+	
+</workflows>
